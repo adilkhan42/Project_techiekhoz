@@ -1,0 +1,43 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main_div{
+
+    display: flex;
+    
+}
+.flexone{
+    margin-left: 40px;
+    display: flex;
+    padding: 20px;
+flex:1;
+}
+h5{
+    padding: 10px;
+}
+
+
+ .button1{
+     width: 52%;
+     padding-top: .79%;
+     padding-bottom: .79%;
+     text-align: center;
+     border-radius: 4%;
+     background-color:coral;
+     color: white;
+     
+ }
+
+
+
+
+.Active{
+    font-size: 105%;
+}
+
+.But{
+    border-radius: 30%;
+}
